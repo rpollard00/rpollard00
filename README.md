@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rpollard00
-- 👀 I’m interested in Programming, Infrastructure Automation, Networking, Web development, and more.
-- ☁  I recently passed the Certified Kubernetes Administrator exam.
+- 👋 Hello, I'm Reese, professionally a C# developer
+- 👀 I like to dabble and have written projects or experiments in: Go, Rust, C#, F#, JS, Zig, Lua, Python, probably other things.
 - 📫 You can reach me at rpollard@gmail.com.
 - Personal site and blog: [reesep.com](https://reesep.com)
 
